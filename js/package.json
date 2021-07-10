@@ -59,7 +59,7 @@
     "flatbuffers": "1.12.0",
     "json-bignum": "^0.0.3",
     "pad-left": "^2.1.0",
-    "tslib": "^2.2.0"
+    "tslib": "^2.3.0"
   },
   "devDependencies": {
     "@types/glob": "7.1.3",
