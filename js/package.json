@@ -53,7 +53,7 @@
   ],
   "dependencies": {
     "@types/flatbuffers": "^1.10.0",
-    "@types/node": "^15.6.1",
+    "@types/node": "^15.12.4",
     "command-line-args": "5.1.1",
     "command-line-usage": "6.1.1",
     "flatbuffers": "1.12.0",
