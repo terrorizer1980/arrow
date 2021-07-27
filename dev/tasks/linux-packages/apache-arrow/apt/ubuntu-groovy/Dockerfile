@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-ARG FROM=ubuntu:groovy
+ARG FROM=ubuntu:20.10
 FROM ${FROM}
 
 RUN \
