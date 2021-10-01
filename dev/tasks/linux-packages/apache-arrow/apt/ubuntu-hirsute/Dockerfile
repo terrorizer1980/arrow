@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-ARG FROM=ubuntu:hirsute
+ARG FROM=ubuntu:21.04
 FROM ${FROM}
 
 RUN \
