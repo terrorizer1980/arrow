@@ -5,3 +5,4 @@ pickle5; python_version == "3.6" or python_version == "3.7"
 pytest
 pytest-lazy-fixture
 pytz
+numpy>=1.22.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
