@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-ARG FROM=ubuntu:bionic
+ARG FROM=ubuntu:18.04
 FROM ${FROM}
 
 RUN \
