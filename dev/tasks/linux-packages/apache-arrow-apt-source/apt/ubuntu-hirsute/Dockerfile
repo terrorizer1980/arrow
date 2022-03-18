@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-FROM ubuntu:hirsute
+FROM ubuntu:rolling
 
 RUN \
   echo "debconf debconf/frontend select Noninteractive" | \
