@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-ARG FROM=debian:bullseye
+ARG FROM=debian:11.5
 FROM ${FROM}
 
 RUN \
