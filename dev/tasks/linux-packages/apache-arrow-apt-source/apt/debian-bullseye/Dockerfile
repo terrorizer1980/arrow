@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-FROM debian:bullseye
+FROM debian:11.5
 
 RUN \
   echo "debconf debconf/frontend select Noninteractive" | \
