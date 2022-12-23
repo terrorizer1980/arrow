@@ -3,3 +3,4 @@ ipython
 numpydoc
 sphinx==2.4.4
 pydata-sphinx-theme
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
