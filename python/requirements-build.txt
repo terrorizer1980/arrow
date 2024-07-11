@@ -2,3 +2,4 @@ cython>=0.29
 numpy>=1.16.6
 setuptools>=38.6.0
 setuptools_scm
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
