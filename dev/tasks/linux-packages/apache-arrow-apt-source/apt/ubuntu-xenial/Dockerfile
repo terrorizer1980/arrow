@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20201014
 
 RUN \
   echo "debconf debconf/frontend select Noninteractive" | \
