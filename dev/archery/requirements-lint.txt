@@ -1,3 +1,4 @@
 autopep8
 flake8
 cmake_format==0.5.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
